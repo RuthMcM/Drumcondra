@@ -1,0 +1,9 @@
+# Site settings
+title: Drumcondra
+author:
+  name: Ruth McManus
+  email: your-email@domain.com
+description: "Ruth's Drumcondra Blog"
+
+# Build settings
+remote_theme: jekyll/minima
